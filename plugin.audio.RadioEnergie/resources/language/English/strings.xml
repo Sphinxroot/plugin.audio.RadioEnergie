@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <string id="30000">[COLOR gold]Energie Drummondville 92.1[/COLOR]</string>
+    <string id="30001">[COLOR gold]Energie Gatineau-Ottawa 104.1[/COLOR]</string>
+    <string id="30002">[COLOR gold]Energie Magog-Sherbrooke 106.1-106.9[/COLOR]</string>
+    <string id="30003">[COLOR gold]Energie Montreal 94.3[/COLOR]</string>
+    <string id="30004">[COLOR gold]Energie Quebec 98.9[/COLOR]</string>
+    <string id="30005">[COLOR gold]Energie Rimouski-Amqui 98.7-93.9[/COLOR]</string>
+    <string id="30006">[COLOR gold]Energie Rouyn-Noranda-La Sarre 99.1-92.5[/COLOR]</string>
+    <string id="30007">[COLOR gold]Energie Saguenay 94.5[/COLOR]</string>
+    <string id="30008">[COLOR gold]Energie Trois-Rivières 102.3[/COLOR]</string>
+    <string id="30009">[COLOR gold]Energie Val-d'Or 102.7[/COLOR]</string>
+</strings>
